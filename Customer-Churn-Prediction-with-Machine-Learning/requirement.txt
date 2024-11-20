@@ -1,0 +1,8 @@
+pandas
+numpy
+pickle
+streamlit
+os
+openai
+utils
+sklearn
